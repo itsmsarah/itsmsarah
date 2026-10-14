@@ -1,0 +1,23 @@
+{
+  "username": "itsmsarah",
+  "exclude_languages": ["Jupyter Notebook"],
+  "focus": {
+    "Front-end": 5,
+    "Back-end": 2,
+    "Mobile": 1
+  },
+  "projects": [
+    {
+      "name": "TechR-P-Web",
+      "description": "Plataforma web de aluguel de notebooks com catalogo dinamico e pagamento.",
+      "tag": "Front-end",
+      "url": "https://github.com/TechR-P/TechR-P-Web"
+    },
+    {
+      "name": "EntreMesas",
+      "description": "Plataforma para restaurantes: web, mobile, APIs e IoT em tempo real.",
+      "tag": "Equipe",
+      "url": "https://github.com/EntreMesas"
+    }
+  ]
+}
