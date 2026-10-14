@@ -32,6 +32,8 @@ Sou estudante de **Sistemas para Internet na Impacta** e fiz o **Técnico em Des
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 
@@ -45,7 +47,10 @@ Plataforma web de **aluguel de notebooks** com catálogo dinâmico via API REST 
 
 ### [EntreMesas](https://github.com/EntreMesas)
 Plataforma de **transformação digital para restaurantes**, integrando web, mobile, APIs e IoT (ESP32) para agilizar pedidos e a gestão de mesas.
-- **Minha atuação:** _(escreva aqui o que VOCÊ fez)_
+-  **Meu papel:** Tech Lead e Scrum Master
+  - Liderei a equipe e organizei o fluxo de trabalho
+  - Distribuí e acompanhei as tarefas no Jira
+  - Contribuí no desenvolvimento do front-end web
 
 ---
 
@@ -54,7 +59,7 @@ Plataforma de **transformação digital para restaurantes**, integrando web, mob
 <div align="center">
 
 <a href="https://www.instagram.com/its.msarah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in//in/sarah-mendes-60a6a8214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/sarah-mendes-60a6a8214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
