@@ -10,7 +10,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de **Sistemas para Internet na Impacta** e fiz o **Técnico em Desenvolvimento de Sistemas no Senai Suíço-Brasileira**. Gosto de construir interfaces e aplicações web e estou em busca de uma oportunidade de **estágio em desenvolvimento**.
+Sou estudante de **Sistemas de Informação na Impacta** e fiz o **Técnico em Desenvolvimento de Sistemas no Senai Suíço-Brasileira**. Atualmente estou realizando **estagio na Vivo, na área de dados**. Gosto de construir interfaces e aplicações web, e agora estou aprofundando meus conhecimentos em **dados**.
 
 - Estudando: HTML, CSS, JavaScript ,Phyton, Java e SQL
 - Aprendendo a trabalhar em equipe com Git e GitHub
