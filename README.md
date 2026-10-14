@@ -12,8 +12,8 @@
 
 Sou estudante de **Sistemas para Internet na Impacta** e fiz o **Técnico em Desenvolvimento de Sistemas no Senai Suíço-Brasileira**. Gosto de construir interfaces e aplicações web e estou em busca de uma oportunidade de **estágio em desenvolvimento**.
 
-- 🔭 Estudando: HTML, CSS, JavaScript e Java
-- 🤝 Aprendendo a trabalhar em equipe com Git e GitHub
+- Estudando: HTML, CSS, JavaScript ,Phyton, Java e SQL
+- Aprendendo a trabalhar em equipe com Git e GitHub
 
 ---
 
@@ -39,11 +39,11 @@ Sou estudante de **Sistemas para Internet na Impacta** e fiz o **Técnico em Des
 
 ## 🚀 Projetos
 
-### 💻 [TechR-P-Web](https://github.com/TechR-P/TechR-P-Web)
+### [TechR-P-Web](https://github.com/TechR-P/TechR-P-Web)
 Plataforma web de **aluguel de notebooks** com catálogo dinâmico via API REST e pagamento integrado. Projeto integrador do Técnico em Desenvolvimento de Sistemas (Senai Suíço-Brasileira, 2025), feito em equipe de 6 pessoas.
 - **Tecnologias:** React, React Router, Styled-Components, Axios, Framer Motion, GSAP, Three.js, Vite
 
-### 🍽️ [EntreMesas](https://github.com/EntreMesas)
+### [EntreMesas](https://github.com/EntreMesas)
 Plataforma de **transformação digital para restaurantes**, integrando web, mobile, APIs e IoT (ESP32) para agilizar pedidos e a gestão de mesas.
 - **Minha atuação:** _(escreva aqui o que VOCÊ fez)_
 
@@ -53,8 +53,8 @@ Plataforma de **transformação digital para restaurantes**, integrando web, mob
 
 <div align="center">
 
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in/SEU-LINK-AQUI/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/its.msarah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in//in/sarah-mendes-60a6a8214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
