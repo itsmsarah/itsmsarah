@@ -27,7 +27,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <rect width="800" height="570" fill="#05080f"/>
 <rect class="card" x="20" y="20" width="760" height="120" rx="8"/>
 <text x="44" y="48" class="head">MISSION TELEMETRY</text>
-<g class="fade" style="animation-delay:0.0s"><text x="96" y="92" class="num" text-anchor="middle" filter="url(#glow)">95</text><text x="96" y="118" class="lbl" text-anchor="middle">Commits</text></g>
+<g class="fade" style="animation-delay:0.0s"><text x="96" y="92" class="num" text-anchor="middle" filter="url(#glow)">90</text><text x="96" y="118" class="lbl" text-anchor="middle">Commits</text></g>
 <g class="fade" style="animation-delay:0.15s"><text x="248" y="92" class="num" text-anchor="middle" filter="url(#glow)">1</text><text x="248" y="118" class="lbl" text-anchor="middle">Stars</text></g>
 <line x1="172" y1="62" x2="172" y2="124" stroke="#16233a"/>
 <g class="fade" style="animation-delay:0.3s"><text x="400" y="92" class="num" text-anchor="middle" filter="url(#glow)">0</text><text x="400" y="118" class="lbl" text-anchor="middle">PRs</text></g>
